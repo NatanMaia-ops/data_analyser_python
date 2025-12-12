@@ -1,0 +1,6 @@
+class Seller:
+    def __init__(self, cpf: str, name: str, salary: float):
+        self.cpf = cpf
+        self.name = name
+        self.salary = salary
+        
